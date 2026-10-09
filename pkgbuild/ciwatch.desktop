@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=CI Watch
+Comment=Live GitHub Actions status and logs for wbso-ai/application
+Exec=ciwatch
+Icon=ciwatch
+Terminal=false
+Categories=Development;
+Keywords=github;actions;ci;build;logs;
+StartupWMClass=ciwatch

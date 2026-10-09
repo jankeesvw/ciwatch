@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="StatusIcon.qml">StatusIcon.qml</file>
+    </qresource>
+</RCC>
